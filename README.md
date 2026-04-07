@@ -1,6 +1,5 @@
-# Heart Disease Prediction (Modular Python Project)
+# Heart Disease Prediction 
 
-This project is a refactored version of your Colab notebook, organized into reusable Python modules with a clean entry point.
 
 ## Project Structure
 
